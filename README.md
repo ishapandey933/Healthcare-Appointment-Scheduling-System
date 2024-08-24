@@ -1,8 +1,6 @@
 
 # Student Health Centre Booking System
 
-![Student Health Centre Booking System](https://via.placeholder.com/150)
-
 ## Description
 
 The **Student Health Centre Booking System** is a web-based application designed to streamline the management of GP appointment bookings at a student health center. This system allows users to check appointment availability, book, cancel, and view pending appointments with their designated GPs. Additionally, the system includes an administration interface for managing bookings, GPs, and patient data, with future improvements planned to enhance data management by replacing foreign keys with their corresponding values.
